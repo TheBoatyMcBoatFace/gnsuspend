@@ -1,0 +1,2 @@
+# gnsuspend
+GlobalNET is offline.
